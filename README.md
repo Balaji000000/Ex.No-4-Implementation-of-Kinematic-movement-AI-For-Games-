@@ -1,4 +1,4 @@
-# Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
+# Ex.No: 4  Implementation of Kinematic movement -Seek and Flee behavior in Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
